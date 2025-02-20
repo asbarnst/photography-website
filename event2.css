@@ -1,0 +1,12 @@
+
+.one{
+background-color:rgb(0, 1, 1);
+color:brown;
+}
+ul,h1,li{
+    display:inline-block;
+}
+ul{
+    margin-left: 80%;
+    text-underline-offset:initial;
+}
